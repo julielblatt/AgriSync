@@ -1,0 +1,14 @@
+# AgriSync
+
+Título: Cálculo Automático de Quantidade de Insumos com Base em Dados de Satélite
+
+Descrição:
+Como agricultor, o usuário deseja que o sistema calcule automaticamente a quantidade de insumos que pode ser produzida em áreas específicas de sua propriedade, utilizando dados de satélite para determinar a área produtiva. Isso permitirá ao agricultor tomar decisões informadas sobre o uso de recursos e planejamento de plantio, com base em informações precisas e atualizadas.
+
+Critérios de Aceitação:
+
+O sistema deve acessar dados de satélite para identificar a área produtiva da propriedade do agricultor.
+Com base nos dados de satélite, o sistema realizará um cálculo automatizado que considera fatores como fertilidade do solo, tipo de cultura e requisitos dos insumos.
+O resultado do cálculo, que é a quantidade estimada de insumos, será exibido pelo sistema.
+Deve existir uma opção para salvar os resultados do cálculo, permitindo referência futura ou comparações.
+A interface do aplicativo será projetada para ser intuitiva e de fácil uso, acomodando agricultores com diversos níveis de conhecimento técnico.
