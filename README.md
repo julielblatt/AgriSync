@@ -1,4 +1,4 @@
-# AgriSync
+# AgroSync
 
 Título: Cálculo Automático de Quantidade de Insumos com Base em Dados de Satélite
 
