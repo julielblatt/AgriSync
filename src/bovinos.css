@@ -1,0 +1,45 @@
+/* Menu.css */
+.bovinos-container {
+    width:  320px; /* Largura de um dispositivo de tela de celular comum */
+    height: 640px; /* Altura de um dispositivo de tela de celular comum */
+    margin: 0 auto; /* Centraliza o conteúdo na tela */
+    padding: 20px;
+    background-color: #ffffff; /* Cor de fundo da tela */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  }
+  
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Estilos para tornar o botão "Sair" vermelho */
+  button[type="button"] {
+    background-color: #ff4d4d;
+  }
+  .logout-button {
+    background-color: #FF0000; /* Cor vermelha para o botão de logout */
+    color: rgb(255, 255, 255);
+  }
+  
